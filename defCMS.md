@@ -13,10 +13,10 @@ Un CMS est une famille de logiciels destinés à la conception et à la mise à 
 * Rubedo
 * Magnolia
 
-| CMS           |    Wordpress      |   Joomla    |
-| ------------- | : ------------- : | :---------: |
-| Complexité    |                   |             |
-| Open Source   |                   |             |
-| Payant        |                   |             |
+| CMS           |    Wordpress    |   Joomla   |
+| ------------- |: -------------: | ---------: |
+| Complexité    |                 |            |
+| Open Source   |                 |            |
+| Payant        |                 |            |
 
 
