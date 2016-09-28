@@ -13,9 +13,12 @@ Un CMS est une famille de logiciels destinés à la conception et à la mise à 
 * Rubedo
 * Magnolia
 
-First Header | Second Header
+Wordpress | Prestashop
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
+Site Web | Vente en ligne
+Gratuit | Gratuit
+Simple d'utilisation | Simple d'utilisation
+Gratuit | Gratuit
+Automattic | Epitech
+Open Source | Open Source
 
