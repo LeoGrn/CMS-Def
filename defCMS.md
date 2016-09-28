@@ -15,8 +15,8 @@ Un CMS est une famille de logiciels destinés à la conception et à la mise à 
 
 | CMS           |    Wordpress    |   Joomla   |
 | ------------- |: -------------: | ---------: |
-| Complexité    |                 |            |
-| Open Source   |                 |            |
-| Payant        |                 |            |
+| Complexité    |     Facil       |    Facil   |
+| Open Source   |       ?         |      ?     |
+| Payant        |      Non        |     Non    |
 
 
